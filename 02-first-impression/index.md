@@ -2,11 +2,11 @@
 
 ## Draft presentation
 
-- [View Presentation](ing/buzkova-draft-presentation.pdf) (PDF)
+- [View Presentation](img/buzkova-draft-presentation.pdf) (PDF)
 - [Introduction](#introduction)
 - [Projects](#projects)
 
-  ## Introduction
+## Introduction
 
 If I had to come up with just one sentence that would describe me both as a designer and a person, I would say that I am an artist who connects design with individual’s inner world. 
 
