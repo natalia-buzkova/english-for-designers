@@ -24,12 +24,12 @@ Artist who connects design with inner world.
 
 I decided to show these three projects as it shows exactly what I talked about when I tried to describe my work as an artist, but also it shows that I do not only do graphic design, but my passion is also photography and painting. 
 
-### Design project / game Poznanie
+### Design project / game Poznanie (Cognition)
 
 I made this work with two other classmates as our final atelier project.
 
 Poznanie is not only a game, but also a tool to connect with your friends and yourself. It could be played by friends, could be used as a learning tool for a single person or could be integrated in psychological practice.
-We have built our concept on pure emotions that each individual experiences daily and our goal is to learn people how to be open to not only feel those emotions, but to talk about them freely in a safe space they create. 
+A card game built around pure emotions that individuals experience daily. Our goal is to learn people how to be open to not only feel those emotions, but to talk about them freely in a safe space. 
 We created two levels of this game, one for kids (age 8+) and the second one for people 15+. 
 
 The principle behind the first level is to connect puzzle-like cards in a sequence including one puzzle piece of emotion (written), then an illustration showing that specific emotion and then numerous cards with our needs that we experience when we feel that emotion. As it is primarily targeted for younger kids, these cards are made mainly for them to name various emotions and identify their needs.
