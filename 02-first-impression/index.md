@@ -8,17 +8,13 @@
 
 ## Introduction
 
-If I had to come up with just one sentence that would describe me both as a designer and a person, I would say that I am an artist who connects design with individual’s inner world. 
+If I were to come up with one sentence that would describe me as both a designer and an individual, it would be this: I am an artist who merges design with inner world of individuals. 
 
-There was a moment when creative work became a tool for me to deal with my own emotions. After my brother died, I used art to communicate with him and for a long time it was the only moment when I felt I was still connected to him. 
+There was a moment when creative work evolved into a powerful tool for navigating my own emotions. Following the loss of my brother, art served as a lifeline that kept our connection alive.
+It has been eight years since I immersed myself in the studies of mental health and the human soul. 
 
-It has been eight years since I immersed myself in the studies of mental health and the soul. 
-
-I use my personal experiences to create a design in which everyone could find their own depth and feel their own emotions.
-
-In the future, I would like to use my work as a form to help people and show them that they are not alone in their suffering. 
-
-Artist who connects design with inner world. 
+I strive to create designs that resonate with others on a profound level, allowing each person to find their own depths and experience their unique emotions. 
+In the future, I would like to use my work as a medium to comfort individuals, reminding them that they are not alone in their struggles.  
 
 ## Projects
 
