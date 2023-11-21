@@ -40,13 +40,9 @@ With this particular piece of art, I felt like I needed to visually depict the f
 
 ### Design project / book sournsweetz
 
-This ongoing project is the most personal for me, showing my passions for graphic design, photography, and writing.
-In 2019 I created a secret Instagram account where I shared my favourite moments accompanied by my thoughts and emotions.
-
-However, after two years, I decided to exclude the poems from my content, as I felt overly exposed within the toxic environment Instagram often is.
+This ongoing project is the most personal for me, showing my passions for graphic design, photography, and writing. In 2019 I created a secret Instagram account where I shared my favourite moments accompanied by my thoughts and emotions. However, after two years, I decided to exclude the poems from my content, as I felt overly exposed within the toxic environment Instagram often is.
 
 This year, as part of our Typography class, we were given a task to create our own book. I deliberately decided to transform my long-held dream into reality.
-
 Currently I am collecting my work from the past years, selecting both photographs and writings, with the hope of soon presenting my first tangible book. 
 
 This project holds personal significance for me, as I pour my own experiences onto its pages with and open heart. Moreover, I see it as a tribute to my brother, a professional photographer whom I deeply admire and will forever look up to.
