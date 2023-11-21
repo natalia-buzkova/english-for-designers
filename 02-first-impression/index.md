@@ -18,32 +18,36 @@ In the future, I would like to use my work as a medium to comfort individuals, r
 
 ## Projects
 
-I decided to show these three projects as it shows exactly what I talked about when I tried to describe my work as an artist, but also it shows that I do not only do graphic design, but my passion is also photography and painting. 
+I have decided to showcase these three projects, as they perfectly capture what I’ve been trying to convey about my work as an artist. It’s not just about graphic design for me; my true passions are photography and painting as well. 
 
 ### Design project / game Poznanie (Cognition)
 
-I made this work with two other classmates as our final atelier project.
+This collaborative work, made with two fellow classmates as our final atelier project, serves as a tool to deepen connection with yourself and people around you.
 
-Poznanie is not only a game, but also a tool to connect with your friends and yourself. It could be played by friends, could be used as a learning tool for a single person or could be integrated in psychological practice.
-A card game built around pure emotions that individuals experience daily. Our goal is to learn people how to be open to not only feel those emotions, but to talk about them freely in a safe space. 
-We created two levels of this game, one for kids (age 8+) and the second one for people 15+. 
+It can be used as a game among friends, utilized as a learning instrument for individuals, or integrated into psychological work. We have built our concept on pure emotions that each individual experiences daily, with the aim of teaching people to not only acknowledge these emotions but also discuss them within a safe space. 
 
-The principle behind the first level is to connect puzzle-like cards in a sequence including one puzzle piece of emotion (written), then an illustration showing that specific emotion and then numerous cards with our needs that we experience when we feel that emotion. As it is primarily targeted for younger kids, these cards are made mainly for them to name various emotions and identify their needs.
+We have created two levels for this game: one for children aged 8 and above, and the second one for individuals aged 15 and older.
 
-Concept behind the second variation of the game is to talk about emotions that we often tend to hide or trivialize, and to learn about them. It also consists of cards, but this time we have eight different categories of questions, in which each question target one of the eight main emotions. In the pack, there are also info cards about each emotion so even one person can use this game as a learning tool. 
+The principle behind the first level revolves around connecting puzzle-like cards in a sequence, including one puzzle piece of emotion (written), then an illustration showing that specific emotion, and multiple cards representing the needs we experience when feeling that emotion. Primarily targeted towards younger kids, these cards are made mainly for them to name various emotions and identify their needs.
 
+Concept behind the second variation of the game is to talk about emotions that are often trivialized, encouraging participants to explore and learn about them. Similar to the first level, this version also comes up with cards. However, it introduces eight categories of questions, each based on one of the eight primary emotions. Additionally, the pack includes informational card about each emotion, enabling the game to serve as a self-guided learning tool.
 
 ### Design project / painting Anxiety
 
-Painting is a form of art in which I feel free. In my work, I always work to the point where I feel like the project is perfect, but not during painting, When I paint, I turn off my head and I often don’t even use any brush, just my hands.
+Painting serves as a liberating art form where I find true freedom. In my artistic process, I work until I reach the point of the impossible flawlessness. However, during the act of painting itself, I disconnect from my rational thoughts, often forgetting to use brushes and relying only on my hands. 
 
-With this one, I felt like I needed to visualize what I feel during my anxiety episodes. The main object is done by sewing technique and it is a clear symbolization of my own head – eye and mouth are disconnected from the rest of the head because I feel like I lost my ability to speak or to see when anxiety fills my body, and I can’t even ask for help. I also worked with glass to show not only the coldness getting from the above with the blue colour, but also how it feels like something was cutting through my skin. While everything feels as if it stopped around me, the fire inside of me is burning and to show that I used the combination of red and orange colour in the right corner. 
+With this particular piece of art, I felt like I needed to visually depict the feelings I experience during my anxiety episodes. The central object, done using a sewing technique, symbolizes my own head. The disconnected eye and mouth represent the loss of my ability to communicate or see clearly when anxiety takes over me. I also worked with glass elements to convey not only the coldness getting from the above depicted through the blue colour, but also the feeling of something cutting through my skin. While everything feels as if it stopped around me, an internal fire rages within, represented by the combination of red and orange hues in the right corner. 
 
 ### Design project / book sournsweetz
 
-I have been working on this project for few years now and I am still working on it at this moment.
-Aside from graphic design, my passion is also photography and writing, so in 2019 I created a secret Instagram profile, on which I posted photos that I captured together with some of my thoughts and emotions. After two years I decided to leave the writing part out as I felt I was too open in such toxic space as Instagram often is. 
+This ongoing project is the most personal for me, showing my passions for graphic design, photography, and writing.
+In 2019 I created a secret Instagram account where I shared my favourite moments accompanied by my thoughts and emotions.
 
-This year, we have a semester work on Typography to create our own book, so I decided to make my dream come true. Currently I am collecting my work from the past years, both photos and writings and I hope I will be able to show you my first real book soon.
+However, after two years, I decided to exclude the poems from my content, as I felt overly exposed within the toxic environment Instagram often is.
 
-This project is mostly personal for me because I use my own experiences and I write about them with open heart. Also, I see it as a tribute to my brother, as he was a professional photographer to whom I look up to and I always will. 
+This year, as part of our Typography class, we were given a task to create our own book. I deliberately decided to transform my long-held dream into reality.
+
+Currently I am collecting my work from the past years, selecting both photographs and writings, with the hope of soon presenting my first tangible book. 
+
+This project holds personal significance for me, as I pour my own experiences onto its pages with and open heart. Moreover, I see it as a tribute to my brother, a professional photographer whom I deeply admire and will forever look up to.
+
