@@ -49,4 +49,4 @@ Currently I am collecting my work from the past years, selecting both photograph
 
 This project holds personal significance for me, as I pour my own experiences onto its pages with and open heart. Moreover, I see it as a tribute to my brother, a professional photographer whom I deeply admire and will forever look up to.
 
-![book](img/book-spread-three-photos-of-winternitz-villa-living-room.png)
+![book](img/book-cover-fornt-and-back-view.png)
