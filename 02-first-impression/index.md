@@ -2,7 +2,7 @@
 
 ## Draft presentation
 
-- [View Presentation](img/buzkova-draft-presentation.pdf) (PDF)
+- [View Presentation](img/buzkova-first-impression-draft.pdf) (PDF)
 - [Introduction](#introduction)
 - [Projects](#projects)
 
