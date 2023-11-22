@@ -8,6 +8,8 @@
 
 ## Introduction
 
+![myself](img/blonde-girl-standing-in-metro-photographed-with-analog.jpg)
+
 If I were to come up with one sentence that would describe me as both a designer and an individual, it would be this: *I am an artist who merges design with inner world of individuals.*
 
 There was a moment when creative work evolved into a powerful tool for navigating my own emotions. Following the loss of my brother, art served as a lifeline that kept our connection alive.
