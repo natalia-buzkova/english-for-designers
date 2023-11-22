@@ -40,6 +40,8 @@ Painting serves as a liberating art form where I find true freedom. In my artist
 
 With this particular piece of art, I felt like I needed to visually depict the feelings I experience during my anxiety episodes. The central object, done using a sewing technique, symbolizes my own head. The disconnected eye and mouth represent the loss of my ability to communicate or see clearly when anxiety takes over me. I also worked with glass elements to convey not only the coldness getting from the above depicted through the blue colour, but also the feeling of something cutting through my skin. While everything feels as if it stopped around me, an internal fire rages within, represented by the combination of red and orange hues in the right corner. 
 
+![painting](img/painting-called-anxiety-with-blue-and-red-hues-in-the-corners.HEIC)
+
 ### Design project / book sournsweetz
 
 This ongoing project is the most personal for me, showing my passions for graphic design, photography, and writing. In 2019 I created a secret Instagram account where I shared my favourite moments accompanied by my thoughts and emotions. However, after two years, I decided to exclude the poems from my content, as I felt overly exposed within the toxic environment Instagram often is.
