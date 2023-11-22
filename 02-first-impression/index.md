@@ -21,7 +21,7 @@ In the future, I would like to use my work as a medium to comfort individuals, r
 I have decided to showcase these three projects, as they perfectly capture what I’ve been trying to convey about my work as an artist. It’s not just about graphic design for me; my true passions are photography and painting as well. 
 
 ### Design project / game Poznanie (Cognition)
-
+![game](img/02-first-impression/img/showcase-of-card-game.jpg)
 This collaborative work, made with two fellow classmates as our final atelier project, serves as a tool to deepen connection with yourself and people around you.
 
 It can be used as a game among friends, utilized as a learning instrument for individuals, or integrated into psychological work. We have built our concept on pure emotions that each individual experiences daily, with the aim of teaching people to not only acknowledge these emotions but also discuss them within a safe space. 
