@@ -21,7 +21,7 @@ In the future, I would like to use my work as a medium to comfort individuals, r
 I have decided to showcase these three projects, as they perfectly capture what I’ve been trying to convey about my work as an artist. It’s not just about graphic design for me; my true passions are photography and painting as well. 
 
 ### Design project / game Poznanie (Cognition)
-![game](img/showcase-of-card-game.jpg)
+
 This collaborative work, made with two fellow classmates as our final atelier project, serves as a tool to deepen connection with yourself and people around you.
 
 It can be used as a game among friends, utilized as a learning instrument for individuals, or integrated into psychological work. We have built our concept on pure emotions that each individual experiences daily, with the aim of teaching people to not only acknowledge these emotions but also discuss them within a safe space. 
@@ -31,6 +31,8 @@ We have created two levels for this game: one for children aged 8 and above, and
 The principle behind the first level revolves around connecting puzzle-like cards in a sequence, including one puzzle piece of emotion (written), then an illustration showing that specific emotion, and multiple cards representing the needs we experience when feeling that emotion. Primarily targeted towards younger kids, these cards are made mainly for them to name various emotions and identify their needs.
 
 Concept behind the second variation of the game is to talk about emotions that are often trivialized, encouraging participants to explore and learn about them. Similar to the first level, this version also comes up with cards. However, it introduces eight categories of questions, each based on one of the eight primary emotions. Additionally, the pack includes informational card about each emotion, enabling the game to serve as a self-guided learning tool.
+
+![game](img/showcase-of-card-game.jpg)
 
 ### Design project / painting Anxiety
 
