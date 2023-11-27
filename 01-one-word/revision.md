@@ -4,9 +4,10 @@ by Natália Búzková
 
 7 November 2023
 
-To put it simply, OK comes with so many possible interpretations. And that often drives me crazy. Language is a powerful tool that enables effective communication, expression of thoughts, emotions, and ideas. Yet, the usage of the word OK, even though it only consists of two syllables, usually leads to confusion. 
+Simple OK comes with so many possible interpretations that if often drives me crazy. Language is a powerful tool that enables effective communication, allowing individuals to express their thoughts, emotions, and ideas clearly. However, the usage of the word OK, even though it only consists of two syllables, could lead to confusion and misconception. 
 
-Let's strats with its meaning. It can vary depending on the context and the speaker’s intention. There's a time when it is a sign of acceptance or agreement. Like when you get a text from your mom, it has no other meaning than a positive or neutral one. (Or at least most of the time.) Even if you use OK in a formal email, there is no trace of some underlying conflict or irony. (maybe.)
+	First of all, its meaning can vary significantly depending on the context and the speaker’s intention. There is a scenario when it is a sign of acceptance or agreement, for example when you get a text from your mom, it has no other connotation than positive or neutral one. Even if you use OK in a formal email, there is no trace of some underlaying conflict or irony. 
+
 	Yet, the word has a very different side to it if used in informal conversation. For instance, between people who are currently in some kind of conflict, which may not be so obvious to the person to whom is the word being said to.
 Many times, someone reply with short OK when it is obvious that the situation is everything but not okay. So, the recipient is left to interpret the speaker’s intent. It is understandable that there are some people who cannot communicate an issue and their ok is all they can provide at the moment. But there are also people who use the word to mess with someone's head and instead of replying they keep you on your toes.
 
