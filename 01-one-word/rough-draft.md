@@ -8,7 +8,10 @@
 ## OK
 
 by Natália Búzková
+
 31 October 2023
+
+---
 
 My word is a simple OK, not okay, 'kay, or whatever form of this word, but “OK”. I was thinking of finding a better or more complex one, but then I came back to the one that was in my mind from the beginning and the one that I literally hate. This simple ok could mean so many things that it often drives me crazy.
 
