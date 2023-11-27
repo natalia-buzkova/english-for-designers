@@ -5,7 +5,7 @@
 
 ## Revision
 
-# Ok
+# OK
 
 by Natália Búzková
 
