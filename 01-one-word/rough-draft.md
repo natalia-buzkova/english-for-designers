@@ -1,4 +1,8 @@
-# word OK
+# OK
+
+by Natália Búzková
+31 October 2023
+
 My word is a simple OK, not okay, 'kay, or whatever form of this word, but “OK”. I was thinking of finding a better or more complex one, but then I came back to the one that was in my mind from the beginning and the one that I literally hate. This simple ok could mean so many things that it often drives me crazy.
 
 First of all, when you get a text from your mom saying ok, it just means “okay, fine, sure” and has no other connotation than positive or neutral one. Even if you use ok in a formal email, there is no trace of some underlaying conflict, it’s just a sign of acceptance or agreement as it is supposed to.
