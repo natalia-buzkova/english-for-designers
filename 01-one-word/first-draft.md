@@ -8,7 +8,10 @@
 # OK
 
 by Natália Búzková
+
 7 November 2023
+
+---
 
 Simple OK comes with so many possible interpretations that if often drives me crazy. Language is a powerful tool that enables effective communication, allowing individuals to express their thoughts, emotions, and ideas clearly. However, the usage of the word OK, even though it only consists of two syllables, could lead to confusion and misconception. 
 
