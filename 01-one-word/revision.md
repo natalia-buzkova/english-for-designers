@@ -11,6 +11,8 @@ by Natália Búzková
 
 14 November 2023
 
+---
+
 Simple OK comes with so many possible interpretations that if often drives me crazy. Language is a powerful tool that enables effective communication, expression of thoughts, emotions, and ideas. Yet, the usage of the word OK, even though it only consists of two syllables, could lead to confusion and misconception. 
 
 First of all, its meaning can vary depending on the context and the speaker’s intention. There is a scenario when it is a sign of acceptance or agreement, for example when you get a text from your mom, it has no other connotation than positive or neutral one. Even if you use OK in a formal email, there is no trace of some underlaying conflict or irony. 
