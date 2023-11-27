@@ -10,4 +10,5 @@ First of all, when you get a text from your mom saying ok, it just means “okay
 	I absolutely hate it when you can physically feel the mess that is hidden behind these two syllables and even when you try your best to somehow dig into the word and find that message behind it, you just do not get the clear answer, but sometimes even more OK’s.
 
 All in all, the reason why I hate the word Ok is because it is often so unclear to me what is being said and has been used so many times to manipulate me that I rather just not see it at all.
+
  
