@@ -7,7 +7,7 @@ by Natália Búzková
 ---
 
 ![argument](img/two-people-arguing.png)
-<img src="/img/two-people-arguing.png" alt="img" width="720" height="720">
+<image src="/img/two-people-arguing.png" alt="img" width="720" height="720">
 
 To put it simply, OK comes with so many possible interpretations. And that often drives me crazy. Language is a powerful tool that enables effective communication, expression of thoughts, emotions, and ideas. Yet, the usage of the word OK, even though it only consists of two syllables, usually leads to confusion. 
 
