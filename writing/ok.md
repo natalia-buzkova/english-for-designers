@@ -6,7 +6,7 @@ by Natália Búzková
 
 ---
 
-![Illustration of an argument between two people, woman and a man, while the man is upset.](img/two-people-arguing.png)
+![Illustration of an argument between two people, woman and a man, while the man is upset.](../img/two-people-arguing.png)
 
 To put it simply, OK comes with so many possible interpretations. And that often drives me crazy. Language is a powerful tool that enables effective communication, expression of thoughts, emotions, and ideas. Yet, the usage of the word OK, even though it only consists of two syllables, usually leads to confusion. 
 
