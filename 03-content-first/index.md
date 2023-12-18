@@ -6,4 +6,4 @@
 
 ## First Impression
 
-- [Draft content](english-for-designers/02-first-impression)
+- [Draft content](/english-for-designers/02-first-impression/)
