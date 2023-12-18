@@ -2,8 +2,7 @@
 
 ## Portfolio
 
-- [Content first]
-- [Design second]
+- [Content first](english-for-designers/index.md)
 
 ## First Impression
 
