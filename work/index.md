@@ -37,6 +37,7 @@ Painting serves as a liberating art form where I find true freedom. In my artist
 With this particular piece of art, I felt like I needed to visually depict the feelings I experience during my anxiety episodes. The central object, done using a sewing technique, symbolizes my own head. The disconnected eye and mouth represent the loss of my ability to communicate or see clearly when anxiety takes over me. I also worked with glass elements to convey not only the coldness getting from the above depicted through the blue colour, but also the feeling of something cutting through my skin. While everything feels as if it stopped around me, an internal fire rages within, represented by the combination of red and orange hues in the right corner. 
 
 ## Book Sournsweetz
+2023
 ![showcase of book cover](../img/book-cover-fornt-and-back-view.jpg)
 
 
