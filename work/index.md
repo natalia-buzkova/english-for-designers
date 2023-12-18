@@ -16,7 +16,7 @@ Book that I have been working on for 4 years now. It's a collection of some the 
 
 ## Cognition game
 2023
-![showcase of cardgame on table, taken on analog, showing vibrant colors.](img/showcase-of-card-game.jpg)
+![showcase of cardgame on table, taken on analog, showing vibrant colors.](../img/showcase-of-card-game.jpg)
 
 This collaborative work, made with two fellow classmates as our final atelier project, serves as a tool to deepen connection with yourself and people around you.
 
