@@ -17,3 +17,5 @@ Many times, someone replies with a short OK when it is clear that the situation 
 I can't stand to feel the mess that is hidden behind these two syllables. And even when you try your best to somehow dig into the word and find that message behind it, you don't get a clear answer. Actually, sometimes even more OKs!
 
 In my world, effective communication is the key of successful relationships. And a happy life. As someone who values meaningful exchanges, I often find the use of OK frustrating. With it's vagueness, it undermines this basic aspect of communication by failing to provide clearity and depth.
+
+[Back](index.md)
