@@ -34,7 +34,7 @@ The principle behind the first level revolves around connecting puzzle-like card
 
 Concept behind the second variation of the game is to talk about emotions that are often trivialized, encouraging participants to explore and learn about them. Similar to the first level, this version also comes up with cards. However, it introduces eight categories of questions, each based on one of the eight primary emotions. Additionally, the pack includes informational card about each emotion, enabling the game to serve as a self-guided learning tool.
 
-![game](img/showcase-of-card-game.jpg)
+![Showcase of a game called Cognition, taken on analog, showing vibrant colors of the graphic work.](img/showcase-of-card-game.jpg)
 
 ### Design project / painting Anxiety
 
@@ -42,7 +42,7 @@ Painting serves as a liberating art form where I find true freedom. In my artist
 
 With this particular piece of art, I felt like I needed to visually depict the feelings I experience during my anxiety episodes. The central object, done using a sewing technique, symbolizes my own head. The disconnected eye and mouth represent the loss of my ability to communicate or see clearly when anxiety takes over me. I also worked with glass elements to convey not only the coldness getting from the above depicted through the blue colour, but also the feeling of something cutting through my skin. While everything feels as if it stopped around me, an internal fire rages within, represented by the combination of red and orange hues in the right corner. 
 
-![painting](img/painting-called-anxiety-with-blue-and-red-hues-in-the-corners.HEIC)
+![Showcase of painting called anxiety, with blue and orange hues and a illustrauion of a head in the centre.](img/painting-called-anxiety-with-blue-and-red-hues-in-the-corners.HEIC)
 
 ### Design project / book sournsweetz
 
@@ -53,4 +53,4 @@ Currently I am collecting my work from the past years, selecting both photograph
 
 This project holds personal significance for me, as I pour my own experiences onto its pages with and open heart. Moreover, I see it as a tribute to my brother, a professional photographer whom I deeply admire and will forever look up to.
 
-![book](img/book-cover-fornt-and-back-view.png)
+![Showcase of a book called Sournsweetz, front and back view.](img/book-cover-fornt-and-back-view.png)
