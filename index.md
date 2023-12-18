@@ -1,9 +1,9 @@
+### Hello, I'm Natália. I am an artist who merges design with inner world of individuals. I strive to create designs that resonate with others on a profound level, allowing each person to find their own depths and experience their unique emotions. If I am not currently working on some graphics, I am most likely taking pictures of hidden gems of funcionalist architecture.
 
-- [**Natália Búzková**)
+![Headshot of Natália. Blonde girl standing in Prague subway, captured while photographing with analog.](img.)
 
+[More about me](about.md)
 
-# [Home](english-for-designers/index.md)
-# [About](english-for-designers/about.md)
-# [Work](english-for-designers/work/index.md)
+[Work](work/indx.md)
 
-# [Writing](english-for-designers/writing/index.md)
+[Writing](writing[index.md)
