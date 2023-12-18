@@ -3,7 +3,7 @@
 [Writing](../writing/index.md)
 
 
-#Projects
+# Projects
 
 - [Cognition game]
 Communication ard game built on pure emotions that each individual experiences daily.
