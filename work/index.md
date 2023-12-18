@@ -14,8 +14,10 @@ Visualization of my feelings during anxiety episode.
 - [Book Sournsweetz]
 Book that I have been working on for 4 years now. It's a collection of some the best pictures that I captured together with short poems.
 
-## Cognition game
+## game *Cognition*
+
 2023
+
 ![showcase of cardgame on table, taken on analog, showing vibrant colors.](../img/showcase-of-card-game.jpg)
 
 This collaborative work, made with two fellow classmates as our final atelier project, serves as a tool to deepen connection with yourself and people around you.
@@ -28,16 +30,20 @@ The principle behind the first level revolves around connecting puzzle-like card
 
 Concept behind the second variation of the game is to talk about emotions that are often trivialized, encouraging participants to explore and learn about them. Similar to the first level, this version also comes up with cards. However, it introduces eight categories of questions, each based on one of the eight primary emotions. Additionally, the pack includes informational card about each emotion, enabling the game to serve as a self-guided learning tool.
 
-## painting Anxiety
+## painting *Anxiety*
+
 2021
+
 ![showcase of painting](../img/painting-called-anxiety-with-blue-and-red-hues-in-the-corners.HEIC)
 
 Painting serves as a liberating art form where I find true freedom. In my artistic process, I work until I reach the point of the impossible flawlessness. However, during the act of painting itself, I disconnect from my rational thoughts, often forgetting to use brushes and relying only on my hands. 
 
 With this particular piece of art, I felt like I needed to visually depict the feelings I experience during my anxiety episodes. The central object, done using a sewing technique, symbolizes my own head. The disconnected eye and mouth represent the loss of my ability to communicate or see clearly when anxiety takes over me. I also worked with glass elements to convey not only the coldness getting from the above depicted through the blue colour, but also the feeling of something cutting through my skin. While everything feels as if it stopped around me, an internal fire rages within, represented by the combination of red and orange hues in the right corner. 
 
-## Book Sournsweetz
+## book *Sournsweetz*
+
 2023
+
 ![showcase of book cover](../img/book-cover-fornt-and-back-view.jpg)
 
 
