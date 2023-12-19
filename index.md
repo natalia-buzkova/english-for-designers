@@ -4,6 +4,6 @@
 
 [More about me](about.md)
 
-[Work](../work/indx.md)
+[Work](work/indx.md)
 
-[Writing](../writing[index.md)
+[Writing](writing/index.md)
