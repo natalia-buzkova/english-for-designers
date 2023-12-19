@@ -20,5 +20,5 @@ When I am not working on my graphics, I am most likely in my painting studio or 
 
 Photography has a sentimental value for me, as my brother was a professional photographer. After he died, I struggled a lot and now I feel like we connect again with every picture that I take. 
 
-
+![Man standing on the bridge, holding camera, ready to take picture of the nature sorrounding him.](img/man-standing-on-the-bridge-holding-camera.JPG)
 
