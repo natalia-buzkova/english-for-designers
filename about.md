@@ -22,3 +22,8 @@ Photography has a sentimental value for me, as my brother was a professional pho
 
 ![Man standing on the bridge, holding camera, ready to take picture of the nature sorrounding him.](img/man-standing-on-the-bridge-holding-camera.JPG)
 
+### Get in touch
+
+nataliabuzkova@gmail.com
+
+Instagram: @natalia_buzkova / @sournsweetz
