@@ -2,7 +2,7 @@
 
 ![Headshot of Natália. Blonde girl standing in Prague subway, captured while photographing with analog.](img/blonde-girl-standing-in-metro-photographed-with-analog.jpg)
 
-[More about me](../about.md)
+[More about me](about.md)
 
 [Work](../work/indx.md)
 
