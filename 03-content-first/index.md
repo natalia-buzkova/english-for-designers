@@ -2,7 +2,7 @@
 
 ## Portfolio
 
-- [Content first](index.md)
+- [Content first](../index.md)
 
 ## First Impression
 
