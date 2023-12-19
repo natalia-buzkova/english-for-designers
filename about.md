@@ -12,7 +12,13 @@ In the future, I would like to use my work as a medium to comfort individuals, r
 
 ## What I live for
 
-![Natália taking picture of herself in the mirror with analog](
+![Natália taking picture of herself in the mirror with analog](img/blode-girl-taking-picture-of-herself-in-the-mirror-of-villa-tugendhat.jpg)
+
+When I am not working on my graphics, I am most likely in my painting studio or somewhere aroud the globe, searching for funcionalist architecture with my dearest analog.
+
+## Photography became a family thing
+
+Photography has a sentimental value for me, as my brother was a professional photographer. After he died, I struggled a lot and now I feel like we connect again with every picture that I take. 
 
 
 
