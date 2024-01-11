@@ -5,7 +5,7 @@
 
 # Projects
 
-- [Cognition game]
+- [Cognition game](#game-cognition)
 Communication ard game built on pure emotions that each individual experiences daily.
 
 - [Painting Anxiety]
