@@ -11,7 +11,7 @@ Communication ard game built on pure emotions that each individual experiences d
 - [Painting Anxiety](#painting-anxiety)
 Visualization of my feelings during anxiety episode.
 
-- [Book Sournsweetz](#book-sournweetz)
+- [Book Sournsweetz](#book-sournsweetz)
 Book that I have been working on for 4 years now. It's a collection of some the best pictures that I captured together with short poems.
 
 ## game *Cognition*
