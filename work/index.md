@@ -8,10 +8,10 @@
 - [Cognition game](#game-cognition)
 Communication ard game built on pure emotions that each individual experiences daily.
 
-- [Painting Anxiety](painting-anxiety)
+- [Painting Anxiety](#painting-anxiety)
 Visualization of my feelings during anxiety episode.
 
-- [Book Sournsweetz](book-sournweetz)
+- [Book Sournsweetz](#book-sournweetz)
 Book that I have been working on for 4 years now. It's a collection of some the best pictures that I captured together with short poems.
 
 ## game *Cognition*
