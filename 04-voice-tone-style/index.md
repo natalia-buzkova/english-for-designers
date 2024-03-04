@@ -1,15 +1,21 @@
 # Voice, Tone, and Style
 
-Myprotein's content style guide 
+Carharrt's content style guide 
 
-Myprotein is a large company selling fitness and nutrition products, including wide range of supplements, colthing, and acessories. 
+Carharrt is a well-known brand, which was founded in 1889, specializing in durable and rugged workwear clothing. Nowadays it blends funcionality with style, appealing to a wide range of customers. 
 
 ## Voice
 
-1. Professional
-2. Educating
-3. Personal
-4. Friendly
-5. Welcoming to all audiences
+1. Honest
+Focusing mainly on the key message, staying open and honest while communicating it to the public. Avoiding vague langauge to make the message sound more personal. 
+2. Masculine
+In order to be seen as a serious brand, Carharrt avoids adjectives that romantizes the products and they always say exactly what they mean. 
+3. Authentic
+Carharrt tries to avoid being impersonal or somehow diplomatic, they prefer to speak with their customers like real people, not through some maarketing norms. 
+4. Proven
+As they are long-existing brand with strong and loyal platform of customers, they continue to adress them as real life people not just numbers. To ensure this, they talk directly to the audience by frequently using "you". 
+5. Innovative
+They always need to find way to bring out something innovative as they have been on the market for over 30 years. To provide this, the focus is on details such as length of the senteces used, to break the monotony. 
+
 
 ## Tone
