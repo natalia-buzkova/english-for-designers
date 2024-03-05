@@ -1,6 +1,6 @@
 # Voice, Tone, and Style
 
-Carharrt's content style guide 
+*Carharrt's content style guide*
 
 Carharrt is a well-known brand, which was founded in 1889, specializing in durable and rugged workwear clothing. Nowadays it blends funcionality with style, appealing to a wide range of customers. 
 
