@@ -1,6 +1,6 @@
 # Voice, Tone, and Style
 
-## *Carhartt's (Carhartt WIP's) content style guide*
+#### *Carhartt's (Carhartt WIP's) content style guide*
 
 Carhartt is a well-known brand, which was founded in 1889, specializing in durable and rugged workwear clothing. Together with Carhartt Work in Progress, which is a streetwear version, it blends funcionality with style, appealing to a wide range of customers. 
 
