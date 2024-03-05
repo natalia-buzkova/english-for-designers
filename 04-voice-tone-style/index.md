@@ -8,11 +8,12 @@ I have spent my forming years mostly on academic earth of my high school, togeth
 
 If I were to describe myself, I'd talk about the deepest parts together with smallest details about my life, just to make sure you completely understand me. (*It might have something to do with my need for validation*.)
 
-1. ### Personal
+1. #### Personal
 I don't like small talks. Small talks mean general conversations which is pretty much shallow and if I love something, then its depth. I don't want to hear about today's weather, tell me something about your childhood.  
-2. ### Honest 
 
-3. ### Open-minded
+2. #### Honest 
+
+3. #### Open-minded
    
 ## Tone
 
