@@ -6,18 +6,23 @@ I have spent my forming years mostly on academic earth of my high school, togeth
 
 ## Voice
 
-1. Personal
+Introduction to section...
 
-3. Honest
-4. Open-minded
+1. Personal
+2. Honest
+3. Open-minded
    
 ## Tone
+
+Introduction to section...
 
 1. Friendly
 2. Comforting
 3. Encouraging
    
 ## Style
+
+Introduction to section...
 
 1. Specific
 2. .
