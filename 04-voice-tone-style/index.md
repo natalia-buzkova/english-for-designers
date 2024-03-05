@@ -22,8 +22,12 @@ I have always wanted people to feel safe and themselves around me. I am open to 
 Introduction to section...
 
 1. #### Friendly
+The last thing I want is for people to feel that they are not welcome around me. Even though I often act introverted or distanced, I am always open to friendly one-on-one conversation. 
+
 2. #### Comforting
-3. #### Encouraging
+My friends often say I act as both their parent or lifelong partner. Do you need to talk about your problem in the tiniest detail and then replay it ten times or do you just need someone to make you a cup of tea and listen to you? I can do both and I am happy to do so. 
+
+3. #### 
    
 ## Style
 
