@@ -27,7 +27,8 @@ The last thing I want is for people to feel that they are not welcome around me.
 2. #### Comforting
 My friends often say I act as both their parent or lifelong partner. Do you need to talk about your problem in the tiniest detail and then replay it ten times or do you just need someone to make you a cup of tea and listen to you? I can do both and I am happy to do so. 
 
-3. #### 
+3. #### Direct
+When it comes down to business, I express my needs and expectations without beating around the bush. I'm open about what my goals and vision is and I'm not afraid to be assertive. I've learned that at the end of the day, it's a win-win for both sides. 
    
 ## Style
 
