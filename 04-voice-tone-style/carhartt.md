@@ -6,7 +6,7 @@ Carhartt is a well-known brand, which was founded in 1889, specializing in durab
 
 ## Voice
 
-Introduction to section...
+Carhartt's voice is overall professional, yet very personal. They want to stay authentic and their main philosophy is to talk with real people from the position of real people.
 
 #### 1. Honest
    
@@ -27,7 +27,6 @@ As they are long-existing brand with strong and loyal platform of customers, the
 #### 5. Innovative
     
 They always need to find way to bring out something innovative as they have been on the market for over 30 years. To provide this, their focus is on the details such as the length of the sentences used, to break the monotony. 
-
 
 ## Tone
 
