@@ -29,4 +29,4 @@ They always need to find way to bring out something innovative as they have been
 
 ## Tone
 
-Their communication is always very direct and straight-forward, without any unnecessary adjectives. Even as a big brand, they still manage to keep the interactions between brand and audience very personal. 
+Their communication is always very direct and straight-forward, without any unnecessary adjectives. As a result, you always get the key message. Even as a big brand, they still manage to keep the interactions between brand and audience very personal. 
