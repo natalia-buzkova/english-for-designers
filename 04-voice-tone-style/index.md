@@ -34,6 +34,6 @@ When it comes down to business, I express my needs and expectations without beat
 
 Introduction to section...
 
-1. Specific
+1. Detailed
 2. .
 3. .
