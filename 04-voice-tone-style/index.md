@@ -7,8 +7,9 @@ I have spent my forming years mostly on academic earth of my high school, togeth
 ## Voice
 
 1. Personal
-2. Honest
-3. Open-minded
+
+3. Honest
+4. Open-minded
    
 ## Tone
 
