@@ -31,11 +31,11 @@ When it comes down to business, I express my needs and expectations without beat
    
 ## Style
 
-#### 1. Detailed
+1. #### Detailed
 Some may say it's oversharing, overexplaining or even people-pleasing. Maybe it's all of the above, but I always try to convey as much detial as possible to avoid some kind of misunderstanding.
 
-#### 2. Ask questions
+2. #### Ask questions
 My closest friends know that I ask them how they feel at least three times a week. And also how is their day, their work, if they got that A from their exam that we studied for together and so on. And I always ask *How do yo feel?* instead of *How are you?* 
 
-#### 3. Polite
+3. #### Polite
 I don't separate formal and informal communication when it comes to politeness. I treat the other person as I wish them to treat me. I don't influence the other person's reaction, but I can influence my own action. So it should always be *human*.
