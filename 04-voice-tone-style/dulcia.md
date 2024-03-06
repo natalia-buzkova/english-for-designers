@@ -20,8 +20,11 @@ As a brand founded by two women, their tone is predominantely soft and feminine.
 
 ## Style
 
-Introduction to section...
-
 #### 1. Using emojis
-#### 2. 
-- ...
+To make their brand even more human and less formal, Dulcia uses a lot of emojis both on social media and in emails. (Isn't it nice that you get little hearts and flowers from your favorite cosmetics brand?)
+
+#### 2. Adressing customers
+They always start their post with "Our dear customers,..." and of source one or two emojis. Also, from time to time, they create a space on instagram stories for questions and then give personalized advice to customers.
+
+#### 3. Informative
+Most of their posts and emails give new updates about their products or just general tips on how to use their cosmetics and what the benefits are. 
