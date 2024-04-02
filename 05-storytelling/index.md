@@ -20,6 +20,7 @@ I loved times when I could be with people older than me, listen and analyse them
 ![Photo of a kid laughing out loud beside a table](../img/laughing-kid-sitting-beside-a-tabble.jpg)
 
 I spent most of my time with my family, including my brother and my other six cousins.
+
 ![Photo of four grandchildren sitting on a couch with their grandparents, celebrating](../img/grandchildren-sitting-around-a-table-with-their-grandparents.jpg)
 
 Being younger, I always looked up for my brother and spending time with him made me feel *special*.
