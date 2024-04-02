@@ -17,6 +17,8 @@ I loved times when I could be with people older than me, listen and analyse them
 
 (* And I loved how they talked about me being so mature for my age.*) 
 
+![Photo of a kid laughing out loud beside a table](img/laughing-kid-sitting-beside-a-tabble.jpg)
+
 I spent most of my time with my family, including my brother and my other six cousins.
 Being younger, I always looked up for my brother and spending time with him made me feel *special*.
 
