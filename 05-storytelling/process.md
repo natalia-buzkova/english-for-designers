@@ -26,4 +26,4 @@ After that I lay down and thought about how to create a story that would be pers
 I read a few articles just to refresh my memory, but I mainly I used information found in books. 
 
 ## Writing
-I decided to make written article as the fist step in presentation and after that the presentation itself. 
+I decided to make written article as the fist step in presentation and after that the presentation itself.
