@@ -92,7 +92,7 @@ Firstly, psychologists divide these styles as secure or insecure attachment.
 
 In case you have secure attachment, you are safe and can simply enjoy the rest of the presentation! :)
 
-You may wonder what attachment style you have, so I will share a link to the online test, which, according to your anxiety and avoidance levels in relationships, generates your results. 
+In case you wonder what attachment style you have fill out test B [here](https://www.web-research-design.net/cgi-bin/crq/crq.pl)
 
 Insecure styles include anxious, avoidant, and anxious-avoidant attachment. 
 
