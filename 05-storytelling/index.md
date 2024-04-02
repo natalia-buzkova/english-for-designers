@@ -3,7 +3,7 @@
 
 2 March 2024, Bratislava
 
-Download the [slides](assets/slides.pdf) to be added
+Download the [slides](assets/slides.pdf) // to be added
 
 See the [process](process.md) // to be added
 
