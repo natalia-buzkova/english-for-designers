@@ -115,3 +115,7 @@ Signs of the attachment include the same one as both anxious and avoidant experi
 - crave and fear intimacy
 - have commitment issues, but fears rejection 
 
+So as much as I believed that I was *unique* in the way I felt during both my childhood and adulthood, the whole time I had anxious attachment style, trying to be perfect in front of everyone else and my own self. 
+
+As I said, other people can influence your attachment style to some extent even during adulthood. 
+Together with deep hard work on ourselves, one day we can meet as one big secure family.
