@@ -56,8 +56,62 @@ Theory of attachment is a psychological explanation for the emotional bonds and 
 There are four attachment styles that could form during first 18 months of our life and will affect as till the very end of it. 
 Other people can influence your attachment style too, for the better or for worse, but the one that you develop during your childhood is always going to be your starting point, from which it is *hard* to move rapidly. 
 
+Firstly, psychologists divide these styles as secure or insecure attachment. 
+In case you have secure attachment, you are safe and can simply enjoy the rest of the presentation :)
 
+You may wonder what attachment style you have, so I will share a link to the online test, which, according to your anxiety and avoidance levels in relationships, generates your results. 
 
+Insecure styles include anxious, avoidant, and anxious-avoidant attachment. 
 
+### Let’s break them down a bit. 
 
+#### Secure attachment
+
+is the ability to build healthy, fulfilling and long-lasting relationships. You feel safe, valued, understood both as a child and subsequently in your adult relationships. 
+
+Some of the signs of secure attachment are: 
+- trusting and connecting with people easily
+- communicating effectively
+- regulating emotions
+- feeling comfortable while spending time alone
+- being emotionally available
+
+### Insecure attachment - Avoidant
+
+Going deeper into insecure attachments, firstly let’s talk about avoidant attachment style, which makes up 25% of the population. 
+
+The main characteristic of this attachment is having difficulty building meaningful relationships due to fear of intimacy, even during childhood, when child shows no preference between primary caregiver and a complete stranger. 
+Having a strong sense of independence, they feel threatened when someone tries to get close to them. 
+
+If you have avoidant attachment style: 
+- you might dismiss others easily
+- have difficulty trusting others
+- avoid both physical and emotional intimacy
+- have commitment issues
+- feel especially uneasy when people try to get close to you
+
+### Insecure attachment - Anxious
+
+Jumping to the exactly opposite side of the spectrum, we focus on anxious attachment style, 20% of the population. 
+
+Being the most distrustful one, anxious child become very distraught when separated from parents, but doesn’t find comfort in their return either. Same as in adulthood, they don’t see themselves as worthy of love and attention. 
+
+They may experience:
+- deep fear of rejection
+- need of external validation
+- high sensitivity to criticism
+- feelings of unworthiness and jealousy
+- difficulty spending time alone
+- fear of abandonment
+
+### Insecure Attachment - Anxious-Avoidant or Fearful
+
+The last of the insecure attachment, being 5% of the population, is called fearful or anxious-avoidant attachment style.
+
+Same as it sounds, it is the most confusing style for both specialists and adults who have it. During childhood, anxious-avoidant experiences emotional inconsistencies of their primary caregiver, often being victim of abuse, trauma, or neglect.
+
+Signs of the attachment include the same one as both anxious and avoidant experience at the same time: 
+- they enjoy and fear spending time alone
+- crave and fear intimacy
+- have commitment issues, but fears rejection 
 
