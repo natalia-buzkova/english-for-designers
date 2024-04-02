@@ -3,26 +3,33 @@
 
 2 March 2024, Bratislava
 
-Download the slides // to be added
+Download the [slides](assets/slides.pdf) to be added
 
-See the process // to be added
+See the [process](process.md) // to be added
 
 Hello, I'm Natália. I am going to tell you a little something about myself and why I am the way I am. Hopefully, you will learn something about yourself too. 
 
 ### Enjoy!
 
-Growing up, I was all over the place. Everywhere I was, you could hear me from far far away. I didn’t even try to keep it down. I did not have many friends in my age. I loved times when I could be with people older than me, listen and analyse them.
+Growing up, I was all over the place.
+Everywhere I was, you could hear me from far far away. I didn’t even try to keep it down. I did not have many friends in my age.
+I loved times when I could be with people older than me, listen and analyse them.
+
 (* And I loved how they talked about me being so mature for my age.*) 
 
-I spent most of my time with my family, including my brother and my other six cousins. Being younger, I always looked up for my brother and spending time with him made me feel *special*.
+I spent most of my time with my family, including my brother and my other six cousins.
+Being younger, I always looked up for my brother and spending time with him made me feel *special*.
 
 I take it as I was supposed to be the calm and organized one, as only girl in the family...
 
 Later, it got to me.
 
-I became the most organized person you could ever imagine. School was never a problem for me, somehow, I managed to create a schedule in my head. That way, I always had everything done in at least one week advance. I strived to be *perfect*.
+I became the most organized person you could ever imagine.
+School was never a problem for me, somehow, I managed to create a schedule in my head. That way, I always had everything done in at least one week advance.
+I strived to be *perfect*.
 
-With this setting in my head, I decided to leave elementary school a year earlier and enrolled myself in bilingual gymnasium in the capital city, Bratislava. I thought I was invincible, and nothing could stop me. 
+With this setting in my head, I decided to leave elementary school a year earlier and enrolled myself in bilingual gymnasium in the capital city of Slovakia, Bratislava. It is not that far, but it was a huge step out of the comfort zone for me. 
+I thought I was invincible, and nothing could stop me. 
 
 Oh and also I was the *only one* from the whole family going to bilingual school.
 
@@ -34,30 +41,38 @@ I still don’t know how I managed to move through this time, but I was accepted
 As the world did for me.
 This time I wanted to make my parents proud ten times more than before. 
 
-My interests shifted towards psychology. I always loved to analyse people and their behaviour, but now it became more of an obsession. I believed that if I get to understand minds of other people, then I will understand the one of my brother. 
+My interests shifted towards psychology. I always loved to analyse people and their behaviour, but now it became more of an obsession. 
 
-My relationships changed too. Making my friends and family feel like they are never alone in this world became my top priority. I wanted to make them feel loved, worthy and accepted. 
-I took their problems as if they were mine and found my value in their happiness.
+I believed that if I get to understand minds of other people, then I will understand the one of my brother. 
+
+My relationships changed too. Making my friends and family feel like they are never alone in this world became my top priority.
+I wanted to make them feel loved, worthy and accepted. I took their problems as if they were mine and found my value in their happiness.
 
 If I could tell one thing about myself, it’s that I care and I care *deeply*. 
 
-My closest friends were afraid sometimes, because I wasn’t cautious and my need for meeting everyone’s expectations was limitless. Looking back, I thought that the world was filled with people who look at friendships the same way I do. Turns out, it is *not*. 
+My closest friends were afraid sometimes, because I wasn’t cautious and my need for meeting everyone’s expectations was limitless.
+
+Looking back, I thought that the world was filled with people who look at friendships the same way I do. Turns out, it is *not*. 
 
 Yet, only last year I realized that giving myself to someone and loving unconditionally may not always be the right way. 
 
-After having gone through some tough times, I decided to come back to reading books. Especially those focusing on relationships. Before, I wanted to understand everything about human brain, now I wanted to know more about their emotions.
+After having gone through some tough times, I decided to come back to reading books.
+Especially those focusing on relationships. Before, I wanted to understand everything about human brain, now I wanted to know more about their emotions.
 
 I don’t like the general talk about how one book changed someone’s life, but unfortunately this one did it for me. 
 
-For the first time I discovered theory of attachments.
+### I discovered theory of attachments.
 
-Theory of attachment is a psychological explanation for the emotional bonds and relationships between people. Every child is born with a need to create bonds with caregivers, and they have influence on attachments throughout our life. 
+Theory of attachment is a psychological explanation for the emotional bonds and relationships between people.
+Every child is born with a need to create bonds with caregivers, and they have influence on attachments throughout our life. 
 
-There are four attachment styles that could form during first 18 months of our life and will affect as till the very end of it. 
-Other people can influence your attachment style too, for the better or for worse, but the one that you develop during your childhood is always going to be your starting point, from which it is *hard* to move rapidly. 
+#### There are four attachment styles that could form during first 18 months of our life and will affect as till the very end of it. 
+
+Other people can influence your attachment style too, for the better or for worse, but the one that you develop during your childhood is always going to be your starting point, from which it is *hard* to move forward. 
 
 Firstly, psychologists divide these styles as secure or insecure attachment. 
-In case you have secure attachment, you are safe and can simply enjoy the rest of the presentation :)
+
+In case you have secure attachment, you are safe and can simply enjoy the rest of the presentation! :)
 
 You may wonder what attachment style you have, so I will share a link to the online test, which, according to your anxiety and avoidance levels in relationships, generates your results. 
 
@@ -67,7 +82,7 @@ Insecure styles include anxious, avoidant, and anxious-avoidant attachment.
 
 #### Secure attachment
 
-is the ability to build healthy, fulfilling and long-lasting relationships. You feel safe, valued, understood both as a child and subsequently in your adult relationships. 
+Having a secure attachment means you have the ability to build healthy, fulfilling and long-lasting relationships. You feel safe, valued, understood both as a child and subsequently in your adult relationships. 
 
 Some of the signs of secure attachment are: 
 - trusting and connecting with people easily
@@ -83,8 +98,8 @@ Going deeper into insecure attachments, firstly let’s talk about avoidant atta
 The main characteristic of this attachment is having difficulty building meaningful relationships due to fear of intimacy, even during childhood, when child shows no preference between primary caregiver and a complete stranger. 
 Having a strong sense of independence, they feel threatened when someone tries to get close to them. 
 
-If you have avoidant attachment style: 
-- you might dismiss others easily
+If you have avoidant attachment style, you might: 
+- dismiss others easily
 - have difficulty trusting others
 - avoid both physical and emotional intimacy
 - have commitment issues
@@ -92,9 +107,10 @@ If you have avoidant attachment style:
 
 ### Insecure attachment - Anxious
 
-Jumping to the exactly opposite side of the spectrum, we focus on anxious attachment style, 20% of the population. 
+Jumping to the exactly opposite side of the spectrum, let's focus on anxious attachment style, 20% of the population. 
 
-Being the most distrustful one, anxious child become very distraught when separated from parents, but doesn’t find comfort in their return either. Same as in adulthood, they don’t see themselves as worthy of love and attention. 
+Being the most distrustful one, anxious child become very distraught when separated from parents, but doesn’t find comfort in their return either.
+Same as in adulthood, they don’t see themselves as worthy of love and attention. 
 
 They may experience:
 - deep fear of rejection
@@ -108,12 +124,15 @@ They may experience:
 
 The last of the insecure attachment, being 5% of the population, is called fearful or anxious-avoidant attachment style.
 
-Same as it sounds, it is the most confusing style for both specialists and adults who have it. During childhood, anxious-avoidant experiences emotional inconsistencies of their primary caregiver, often being victim of abuse, trauma, or neglect.
+Same as it sounds, it is the most confusing style for both specialists and adults who have it.
+During childhood, anxious-avoidant experiences emotional inconsistencies of their primary caregiver, often being victim of abuse, trauma, or neglect.
 
-Signs of the attachment include the same one as both anxious and avoidant experience at the same time: 
+Signs of the attachment include the same ones as both anxious and avoidant experience: 
 - they enjoy and fear spending time alone
-- crave and fear intimacy
-- have commitment issues, but fears rejection 
+- they crave and fear intimacy
+- they have commitment issues, but fear rejection
+
+
 
 So as much as I believed that I was *unique* in the way I felt during both my childhood and adulthood, the whole time I had anxious attachment style, trying to be perfect in front of everyone else and my own self. 
 
