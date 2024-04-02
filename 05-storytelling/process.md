@@ -1,5 +1,9 @@
 # Attachment styles
 
+by Natália Búzková
+
+27 March 2024
+
 - Read the [Article](index.md)
 
 ## Choosing a topic
