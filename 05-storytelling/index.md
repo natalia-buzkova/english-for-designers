@@ -1,5 +1,5 @@
 
-# It's the first eighteen *months* that we shuld focus on more, not years.
+# It's the first eighteen *months* that we should focus on more, not years.
 
 2 March 2024, Bratislava
 
