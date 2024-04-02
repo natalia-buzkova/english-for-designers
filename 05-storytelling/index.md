@@ -151,7 +151,7 @@ Signs of the attachment include the same ones as both anxious and avoidant exper
 
 ![Information about each attachment style](../img/information-about-attachment-styles.jpg)
 
-So as much as I believed that I was *unique* in the way I felt during both my childhood and adulthood, the whole time I had anxious attachment style, trying to be perfect in front of everyone else and my own self. 
+So as much as I believed that I was *unique* in the way I felt during both my childhood and adulthood, the whole time I had anxious attachment style. Even though triggered by trauma, my need to be perfect in front of everyone else came from my early childhood experiences. 
 
 As I said, other people can influence your attachment style to some extent even during adulthood. 
-Together with deep hard work on ourselves, one day we can meet as one big secure family.
+Together with deep hard work on ourselves, one day we can meet as one big *secure* family.
