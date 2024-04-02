@@ -5,7 +5,7 @@
 
 Download the [slides](assets/slides.pdf) // to be added
 
-See the [process](process.md) // to be added
+See the [process](process.md)
 
 Hello, I'm Natália. I am going to tell you a little something about myself and why I am the way I am. Hopefully, you will learn something about yourself too. 
 
