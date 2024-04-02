@@ -20,13 +20,20 @@ I loved times when I could be with people older than me, listen and analyse them
 ![Photo of a kid laughing out loud beside a table](../img/laughing-kid-sitting-beside-a-tabble.jpg)
 
 I spent most of my time with my family, including my brother and my other six cousins.
+![Photo of four grandchildren sitting on a couch with their grandparents, celebrating](../img/grandchildren-sitting-around-a-table-with-their-grandparents.jpg)
+
 Being younger, I always looked up for my brother and spending time with him made me feel *special*.
+
+![Photo of siblings, boy and a girl, sitting on grass](../img/blonde-girl-with-brown-haired-boy-sitting-on-grass.jpg)
 
 I take it as I was supposed to be the calm and organized one, as only girl in the family...
 
 Later, it got to me.
 
 I became the most organized person you could ever imagine.
+
+![Photo of a blonde girl sitting in class behind a desk](../img/small-girl-sitting-in-school.jpg)
+
 School was never a problem for me, somehow, I managed to create a schedule in my head. That way, I always had everything done in at least one week advance.
 I strived to be *perfect*.
 
@@ -47,8 +54,11 @@ My interests shifted towards psychology. I always loved to analyse people and th
 
 I believed that if I get to understand minds of other people, then I will understand the one of my brother. 
 
+
 My relationships changed too. Making my friends and family feel like they are never alone in this world became my top priority.
 I wanted to make them feel loved, worthy and accepted. I took their problems as if they were mine and found my value in their happiness.
+
+![Photo of of a friend group celebrating birthday during summer](../img/photo-of-friends-during-summer-holiday-celebrating-birthday.jpg)
 
 If I could tell one thing about myself, it’s that I care and I care *deeply*. 
 
@@ -60,6 +70,8 @@ Yet, only last year I realized that giving myself to someone and loving uncondit
 
 After having gone through some tough times, I decided to come back to reading books.
 Especially those focusing on relationships. Before, I wanted to understand everything about human brain, now I wanted to know more about their emotions.
+
+![Cover of a book called Attached](../img/cover-of-book-called-attached.JPG)
 
 I don’t like the general talk about how one book changed someone’s life, but unfortunately this one did it for me. 
 
@@ -73,6 +85,8 @@ Every child is born with a need to create bonds with caregivers, and they have i
 Other people can influence your attachment style too, for the better or for worse, but the one that you develop during your childhood is always going to be your starting point, from which it is *hard* to move forward. 
 
 Firstly, psychologists divide these styles as secure or insecure attachment. 
+
+![Graph showing the spectrum of different attachment styles](../img/graph-showing-attachment-styles-and-their-spectrum.PNG)
 
 In case you have secure attachment, you are safe and can simply enjoy the rest of the presentation! :)
 
@@ -134,7 +148,7 @@ Signs of the attachment include the same ones as both anxious and avoidant exper
 - they crave and fear intimacy
 - they have commitment issues, but fear rejection
 
-
+![Information about each attachment style](../img/information-about-attachment-styles.jpg)
 
 So as much as I believed that I was *unique* in the way I felt during both my childhood and adulthood, the whole time I had anxious attachment style, trying to be perfect in front of everyone else and my own self. 
 
