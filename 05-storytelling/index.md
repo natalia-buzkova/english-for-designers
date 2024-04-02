@@ -1,7 +1,9 @@
 
 # It's the first eighteen *months* that we should focus on more.
 
-2 March 2024, Bratislava
+by Natália Búzková
+
+2 April 2024, Bratislava
 
 Download the [slides](assets/slides.pdf) // to be added
 
