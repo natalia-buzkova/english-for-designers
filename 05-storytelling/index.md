@@ -38,7 +38,7 @@ I became the most organized person you could ever imagine.
 School was never a problem for me, somehow, I managed to create a schedule in my head. That way, I always had everything done in at least one week advance.
 I strived to be *perfect*.
 
-With this setting in my head, I decided to leave elementary school a year earlier and enrolled myself in bilingual gymnasium in the capital city of Slovakia, Bratislava. It is not that far, but it was a huge step out of the comfort zone for me. 
+With this drive in my head, I decided to leave elementary school a year earlier and enrolled myself in bilingual gymnasium in the capital city of Slovakia, Bratislava. It is not that far from my home, but it was a huge step out of the comfort zone for me. 
 I thought I was invincible, and nothing could stop me. 
 
 Oh and also I was the *only one* from the whole family going to bilingual school.
@@ -47,7 +47,8 @@ Little did I know that life is not always going to be as I plan it. Even when it
 
 The unexpected message of my brother dying stopped my world form turning for a while.
 
-I still don’t know how I managed to move through this time, but I was accepted to high school, and I shifted my focus towards it. My perfectionism got worse, and I became somehow quiet. 
+I still don’t know how I managed to move through this time, but I was accepted to high school, and I shifted my focus towards it.
+My perfectionism got worse, and I became somehow quiet, closed off. 
 As the world did for me.
 This time I wanted to make my parents proud ten times more than before. 
 
@@ -55,9 +56,8 @@ My interests shifted towards psychology. I always loved to analyse people and th
 
 I believed that if I get to understand minds of other people, then I will understand the one of my brother. 
 
-
 My relationships changed too. Making my friends and family feel like they are never alone in this world became my top priority.
-I wanted to make them feel loved, worthy and accepted. I took their problems as if they were mine and found my value in their happiness.
+I wanted to make them feel loved, worthy and accepted. I took their problems as if they were mine and found my value in their happiness. And my personal fauilure in their grief. 
 
 ![Photo of of a friend group celebrating birthday during summer](../img/photo-of-friends-during-summer-holiday-celebrating-birthday.jpg)
 
@@ -67,7 +67,7 @@ My closest friends were afraid sometimes, because I wasn’t cautious and my nee
 
 Looking back, I thought that the world was filled with people who look at friendships the same way I do. Turns out, it is *not*. 
 
-Yet, only last year I realized that giving myself to someone and loving unconditionally may not always be the right way. 
+Yet, only last year I realized that giving myself to someone and loving unconditionally may not always be the right way. I needed to find myself.
 
 After having gone through some tough times, I decided to come back to reading books.
 Especially those focusing on relationships. Before, I wanted to understand everything about human brain, now I wanted to know more about their emotions.
