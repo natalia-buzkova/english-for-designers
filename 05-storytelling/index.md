@@ -86,13 +86,12 @@ Every child is born with a need to create bonds with caregivers, and they have i
 
 Other people can influence your attachment style too, for the better or for worse, but the one that you develop during your childhood is always going to be your starting point, from which it is *hard* to move forward. 
 
-Firstly, psychologists divide these styles as secure or insecure attachment. 
+Firstly, psychologists divide these styles as secure and then three types of insecure attachments. Insecure styles include anxious, avoidant, and anxious-avoidant attachment. 
 
 In case you wonder what attachment style you have fill out test B [here](https://www.web-research-design.net/cgi-bin/crq/crq.pl)
 
 ![Graph showing the spectrum of different attachment styles](../img/graph-showing-attachment-styles-and-their-spectrum.PNG)
 
-Insecure styles include anxious, avoidant, and anxious-avoidant attachment. 
 
 ### Let’s break them down a bit. 
 
@@ -154,3 +153,8 @@ So as much as I believed that I was *unique* in the way I felt during both my ch
 
 As I said, other people can influence your attachment style to some extent even during adulthood. 
 Together with deep hard work on ourselves, one day we can meet as one big *secure* family.
+If you are interested, here are some of the similar books I've read:
+- Adult Children of Emotionally Immature Parents
+- Recovering from Emotionally Immature Parents
+- It Didn't Start With You
+- What Happened to You?
