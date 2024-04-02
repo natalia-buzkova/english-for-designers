@@ -15,7 +15,7 @@ Growing up, I was all over the place.
 Everywhere I was, you could hear me from far far away. I didn’t even try to keep it down. I did not have many friends in my age.
 I loved times when I could be with people older than me, listen and analyse them.
 
-(* And I loved how they talked about me being so mature for my age.*) 
+*And I loved how they talked about me being so mature for my age.*
 
 ![Photo of a kid laughing out loud beside a table](img/laughing-kid-sitting-beside-a-tabble.jpg)
 
