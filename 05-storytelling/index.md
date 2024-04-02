@@ -153,7 +153,9 @@ So as much as I believed that I was *unique* in the way I felt during both my ch
 
 As I said, other people can influence your attachment style to some extent even during adulthood. 
 Together with deep hard work on ourselves, one day we can meet as one big *secure* family.
-If you are interested, here are some of the similar books I've read:
+
+If the topic caught your attention, here is a list of book I recommend:
+
 - Adult Children of Emotionally Immature Parents
 - Recovering from Emotionally Immature Parents
 - It Didn't Start With You
