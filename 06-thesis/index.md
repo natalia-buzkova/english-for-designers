@@ -91,7 +91,7 @@ The first one is black, as it symbolizes lectures that are medical and psycholog
 
 Discussions delve into the spiritual and personal experiences of traumas, they offer the opposite view of trauma, which is not clearly defined and outlined – just as the complementary yellow circle depicted.
 
-![Picture of black and yellow circle representing discussions and lectures on festival](../img/visualization-of-layers-around-trauma.png)
+![Picture of black and yellow circle representing discussions and lectures on festival](../img/visualization-of-circles-symbolizing-discussions-and-lectures.png)
 
 Festival brings individuals closer to the wholeness that they are trying so hard to achieve, through lectures, discussions, and workshops.
 
