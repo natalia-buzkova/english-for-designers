@@ -63,7 +63,7 @@ The first survey consisted of just one question, asking what color an individual
 
 The second survey focused on the representation of trauma. The participant was asked to abstractly draw the visual appearance of a traumatic experience with a single line.
 
-![Picture of survey results, visualization of trauma with one line](../img/pictures-of-survey-results.png)
+![Picture of survey results, visualization of trauma with one line.](../img/pictures-of-survey-results.png)
 
 #### Theoretical concept
 
@@ -91,14 +91,14 @@ The first one is black, as it symbolizes lectures that are medical and psycholog
 
 Discussions delve into the spiritual and personal experiences of traumas, they offer the opposite view of trauma, which is not clearly defined and outlined – just as the complementary yellow circle depicted.
 
-![Picture of black and yellow circle representing discussions and lectures on festival](../img/visualization-of-circles-symbolizing-discussions-and-lectures.png)
+![Picture of black and yellow circle representing discussions and lectures on festival.](../img/visualization-of-circles-symbolizing-discussions-and-lectures.png)
 
 Festival brings individuals closer to the wholeness that they are trying so hard to achieve, through lectures, discussions, and workshops.
 
 Within the line that reaches a perfect circle, I insert information related to the festival, such as the list of guest speakers, discussion and lecture titles, etc. 
 It is another symbolic depiction that I work with. 
 
-![Picture showing circular text frame around the central abstract with black and yellow circle](../img/text-frame-around-central-abstract.png)
+![Picture showing circular text frame around the central abstract with black and yellow circle.](../img/text-frame-around-central-abstract.png)
 
 #### Logo
 
@@ -107,7 +107,7 @@ The logo consists of a symbol and typographically displayed name of the festival
 The symbol is composed of two circles, representing the main role and essence of the festival, which is analyzing and bringing trauma closer through interconnected approaches – medical and spiritual.
 Inside the symbol, there is a segment of lines from the main abstract.
 
-![Picture of black logo Poznanie](../img/picture-of-black-logo-poznanie.png)
+![Picture of black logo Poznanie.](../img/picture-of-black-logo-poznanie.png)
 
 Color of the logo may vary according to its background or color of the typography used on a specific product. 
 
@@ -128,36 +128,54 @@ As the primary font of the visual identity, I have chosen the Sofia Pro font.
 It is a sans-serif font that is part of the logo and serves as the main text font. 
 It clearly expresses the idea of typeset text.
 
-![Picture of Sofia Pro font](../img/font-sofia-pro.png)
+![Picture of Sofia Pro font.](../img/font-sofia-pro.png)
 
 I utilize the supplementary font TT Travels as the headline font, as it creates contrast and draws attention.
 With its irregular shapes, it connects with the abstract representation of trauma I used in the graphic process. 
 
-![Picture of TT Travels Next font](../img/font-tt-travels-next.png)
+![Picture of TT Travels Next font.](../img/font-tt-travels-next.png)
 
 #### Online propagation
 
 I have decided to focus the promotion on the digital online space.
 Festival communicates through social media platforms such as Instagram, Facebook, and TikTok.
 
-[]
+![Showcase of instagram feed.](../img/showcase-of-instagram-feed.png)
+
+![Showcase of facebook posts.](../img/showcase-of-facebook-posts.png)
 
 Additionally, I have created a website and to expand on the themes that are part of the event, I have proposed the Poznanie podcast. 
-[]
+
+![Mockup of a notebook showing webpage.](../img/mockup-of-web-design.png)
+
+![Picture showing logo of a podcast Poznanie.](../img/picture-of-the-logo-of-podcast-poznanie.png)
 
 #### Offline propagation
 
 In offline communication, I primarily work with print advertising in the form of billboards and posters.
-[]
+
+![Two mockups showing billboards with tha main visual on the streets in the city.](../img/picture-of-two-mockups-showing-billboards-in-the-city.png)
+
+![Mockup of three blue posters advertising lectures and discussions hanging on the wall.](../img/mockup-of-three-posters-advertising-discussions-and-lectures.png)
 
 Additionally, I reach out to the target audience with brochures distributed in the offices of psychologists and psychotherapists. 
-[]
+
+[Mockup of a four-fold brochure present in the offices of psychologists and psychotherapists.](../img/mockup-of-brochure-present-in-the-office-of-psychologists-and-psychotherapistis.png)
 
 #### Products
 
 Furthermore, I present additional visual elements that I have developed. These include various products present at the festival and merchandising.
 
-[]
+##### Festival Ticket
+![Mockup of a festival ticket.](../)
+
+![]
+
+![]
+
+![]
+
+![]
 
 
 
