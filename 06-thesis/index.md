@@ -33,7 +33,7 @@ I strive to create designs that resonate with others on a profound level, allowi
 
 Based on the analysis of the competitive market in Slovakia, I came to the conclusion that there is not enough space in our society that allow you to dig deeper into themes of mental health. 
 
-[]
+![Picture of two posters of slovak festivals.](../img/picture-of-two-posters-of-slovak-festivals.jpg)
 
 After a series of discussions with professional psychologists, I gained the motivation to create a festival that focuses specifically on trauma. 
 The name is based on the idea of understanding this topic, our mental health, and ourselves. Trauma is the root of a large portion of mental health problems that prevent us from living our lives to the fullest. 
@@ -58,9 +58,13 @@ Since the festival focuses primarily on the theme of trauma, my goal was to abst
 I created two surveys, which I then visually processed. The main goal of both surveys was to understand the perception of this theme in my surroundings. Based on them, I created an identity, the important pillar of which is the connection with individual experiences and the processing of trauma in society.  
 
 The first survey consisted of just one question, asking what color an individual would depict or define trauma according to their subjective perception.
-[]
+
+![Picture of a table showing results of survey what color represents trauma.](../img/table-showing-results-of-survey-asking-what-color-represents-trauma.png)
+
 The second survey focused on the representation of trauma. The participant was asked to abstractly draw the visual appearance of a traumatic experience with a single line.
-[]
+
+![Picture of survey results, visualization of trauma with one line](../img/pictures-of-survey-results.png)
+
 #### Theoretical concept
 
 According to the definition, trauma is the result of a significant event, and our organism perceives the threat even long after the threat has disappeared. After this experience, we remain shattered and lose our wholeness, which we can never fully restore to its pre-trauma form. 
@@ -73,24 +77,28 @@ I have decided to abstractly elaborate on this concept and build upon it the mai
 #### Visual concept of trauma
 
 After processing the results obtained from the surveys, I selected one of the obtained abstracts and chose the color blue.
-[]
+
+![Picture of blue abstract of trauma.](../img/digitalized-abstract-visualization-of-trauma.png)
 
 As I expressed before, we wrap our traumas in layers as a form of protection and an attempt to restore our broken wholeness. Around the abstract, I visually process lines that symbolize the created layers. The further they are from the object, the closer to approaching a perfect circle, but never will.  Just as with our struggle to achieve wholeness.
-[]
+
+![Picture of layers forming around trauma.](../img/visualization-of-layers-around-trauma.png)
 
 Visually, I represent the educational aspect of the festival, which consists of lectures and discussions, using two circles.
 These circles represent the festival’s focus on individual traumas.
 
 The first one is black, as it symbolizes lectures that are medical and psychological, clearly defined, and structured, working with facts.
 
-Discussions delve into the spiritual and personal experiences of traumas, they offer the opposite view of trauma, which is not clearly defined and outlined – just as the complementary yellow circle depicted. 
-[]
+Discussions delve into the spiritual and personal experiences of traumas, they offer the opposite view of trauma, which is not clearly defined and outlined – just as the complementary yellow circle depicted.
+
+![Picture of black and yellow circle representing discussions and lectures on festival](../img/visualization-of-layers-around-trauma.png)
 
 Festival brings individuals closer to the wholeness that they are trying so hard to achieve, through lectures, discussions, and workshops.
 
 Within the line that reaches a perfect circle, I insert information related to the festival, such as the list of guest speakers, discussion and lecture titles, etc. 
 It is another symbolic depiction that I work with. 
-[]
+
+![Picture showing circular text frame around the central abstract with black and yellow circle](../img/text-frame-around-central-abstract.png)
 
 #### Logo
 
@@ -98,6 +106,8 @@ The logo consists of a symbol and typographically displayed name of the festival
 
 The symbol is composed of two circles, representing the main role and essence of the festival, which is analyzing and bringing trauma closer through interconnected approaches – medical and spiritual.
 Inside the symbol, there is a segment of lines from the main abstract.
+
+![
 
 #### Color Pallet
 
