@@ -107,7 +107,11 @@ The logo consists of a symbol and typographically displayed name of the festival
 The symbol is composed of two circles, representing the main role and essence of the festival, which is analyzing and bringing trauma closer through interconnected approaches – medical and spiritual.
 Inside the symbol, there is a segment of lines from the main abstract.
 
-![
+![Picture of black logo Poznanie](../img/picture-of-black-logo-poznanie.png)
+
+Color of the logo may vary according to its background or color of the typography used on a specific product. 
+
+![Picture of color variations of logo Poznanie.](../img/color-variations-of-logo-poznanie.png)
 
 #### Color Pallet
 
@@ -115,7 +119,8 @@ The dominant color of the festival is blue, symbolizing trauma as the main theme
 I complement it with black and white, which serve as background or text colors.
 
 As a secondary color, I chose yellow, considering its complementary relationship with blue. It creates contrast and tension but also symbolizes hope for a future without trauma binding us. 
-[]
+
+![Picture of color pallet of the visual identity together with color codes.](../img/color-pallet-of-the-visual-identity-with-color-codes.png)
 
 #### Typography
 
@@ -123,13 +128,18 @@ As the primary font of the visual identity, I have chosen the Sofia Pro font.
 It is a sans-serif font that is part of the logo and serves as the main text font. 
 It clearly expresses the idea of typeset text.
 
+![Picture of Sofia Pro font](../img/font-sofia-pro.png)
+
 I utilize the supplementary font TT Travels as the headline font, as it creates contrast and draws attention.
 With its irregular shapes, it connects with the abstract representation of trauma I used in the graphic process. 
+
+![Picture of TT Travels Next font](../img/font-tt-travels-next.png)
 
 #### Online propagation
 
 I have decided to focus the promotion on the digital online space.
 Festival communicates through social media platforms such as Instagram, Facebook, and TikTok.
+
 []
 
 Additionally, I have created a website and to expand on the themes that are part of the event, I have proposed the Poznanie podcast. 
