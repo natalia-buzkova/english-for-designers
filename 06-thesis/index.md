@@ -160,7 +160,7 @@ In offline communication, I primarily work with print advertising in the form of
 
 Additionally, I reach out to the target audience with brochures distributed in the offices of psychologists and psychotherapists. 
 
-[Mockup of a four-fold brochure present in the offices of psychologists and psychotherapists.](../img/mockup-of-brochure-present-in-the-office-of-psychologists-and-psychotherapistis.png)
+![Mockup of a four-fold brochure present in the offices of psychologists and psychotherapists.](../img/mockup-of-brochure-present-in-the-office-of-psychologists-and-psychotherapistis.png)
 
 #### Products
 
