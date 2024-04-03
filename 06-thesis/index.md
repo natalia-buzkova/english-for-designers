@@ -181,6 +181,7 @@ Furthermore, I present additional visual elements that I have developed. These i
 
 
 Altough Poznanie is a fictional festival, my vision for the future is to organize a similar event in Slovakia. If the opportunity arises, with the right team and financial resources, I am determined to work on this project in the future. 
+
 ![Picture of posters in front of Stara Tržnica in Bratislava.](../img/picture-with-posters-in-front-of-stara-tržnica-in-bratislava.png)
 
 
