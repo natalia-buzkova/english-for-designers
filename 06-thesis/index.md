@@ -4,7 +4,7 @@ by Natália Búzková
 
 3 April 2024
 
-Watch [the slides] // to be added
+Watch [the slides](assets/slides.pdf) // to be added
 
 ## Abstract
 
