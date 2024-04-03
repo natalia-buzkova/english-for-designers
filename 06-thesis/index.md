@@ -113,14 +113,14 @@ Color of the logo may vary according to its background or color of the typograph
 
 ![Picture of color variations of logo Poznanie.](../img/color-variations-of-logo-poznanie.png)
 
-#### Color Pallet
+#### Color Palette
 
 The dominant color of the festival is blue, symbolizing trauma as the main theme of the festival.
 I complement it with black and white, which serve as background or text colors.
 
 As a secondary color, I chose yellow, considering its complementary relationship with blue. It creates contrast and tension but also symbolizes hope for a future without trauma binding us. 
 
-![Picture of color pallet of the visual identity together with color codes.](../img/color-pallet-of-the-visual-identity-with-color-codes.png)
+![Picture of color palette of the visual identity together with color codes.](../img/color-pallet-of-the-visual-identity-with-color-codes.png)
 
 #### Typography
 
