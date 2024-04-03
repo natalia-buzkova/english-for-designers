@@ -70,7 +70,7 @@ The second survey focused on the representation of trauma. The participant was a
 According to the definition, trauma is the result of a significant event, and our organism perceives the threat even long after the threat has disappeared. After this experience, we remain shattered and lose our wholeness, which we can never fully restore to its pre-trauma form. 
 To deal with trauma, we create so-called layers against it, which protect us from pain and suppress the fear of threat.
 
-I have decided to abstractly elaborate on this concept and build upon it the main philosophy of the visual identity of the Cognition Festival. 
+I have decided to abstractly elaborate on this concept and build upon it the main philosophy of the visual identity of the festival. 
 
 ### Practical part
 
