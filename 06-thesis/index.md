@@ -167,15 +167,21 @@ Additionally, I reach out to the target audience with brochures distributed in t
 Furthermore, I present additional visual elements that I have developed. These include various products present at the festival and merchandising.
 
 ##### Festival Ticket
-![Mockup of a festival ticket.](../)
+![Mockup of a festival ticket.](../img/mockup-of-festival-ticket.png)
 
-![]
+##### Brochure on Festival
+![Mockup of an open A5-sized brochure present on the festival.](../img/mockup-of-open-brochure.png)
 
-![]
+##### Merchandising
+![Fourmockups showing merch including notebook, mat,tote bag,t-shirt.](../img/four-pictures-showing-merch.png)
 
-![]
+##### Festival accessories 
+![Three mockups showing different accessories present on the festival, such as id cards, cups and wristband.](../img/three-pictures-showing-accessories-on-the-festival.png)
 
-![]
+
+
+Altough Poznanie is a fictional festival, my vision for the future is to organize a similar event in Slovakia. If the opportunity arises, with the right team and financial resources, I am determined to work on this project in the future. 
+![Picture of posters in front of Stara Tržnica in Bratislava.](../img/picture-with-posters-in-front-of-stara-tržnica-in-bratislava.png)
 
 
 
