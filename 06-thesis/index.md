@@ -140,7 +140,7 @@ With its irregular shapes, it connects with the abstract representation of traum
 I have decided to focus the promotion on the digital online space.
 Festival communicates through social media platforms such as Instagram, Facebook, and TikTok.
 
-![Showcase of instagram feed.](../img/showcase-of-instagram-feed.png)
+![Showcase of instagram feed.]
 
 ![Showcase of facebook posts.](../img/showcase-of-facebook-posts.png)
 
