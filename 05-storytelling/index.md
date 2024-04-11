@@ -3,7 +3,7 @@
 
 by Natália Búzková
 
-2 April 2024, Bratislava
+2 April 2024
 
 - View the [process](process.md)
 
