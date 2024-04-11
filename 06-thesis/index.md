@@ -4,8 +4,6 @@ by Natália Búzková
 
 3 April 2024
 
-Watch the [slides](assets/slides.pdf) // to be added
-
 ## Abstract
 
 The bachelor thesis focuses on creating a visual identity for the fictional self-developing festival Poznanie, whose content is based on the theme of trauma. The main goal of the festival is not to heal trauma but to open up society to this topic without tabooing it. Individuals will get closer to their personal trauma and, as part of the program, take steps closer to self-awareness, self-development, and wholeness.
