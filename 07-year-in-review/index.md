@@ -21,9 +21,11 @@ Looking back, I've come a long way and I've learned a lot in the field of my car
 - Planning saves me some precious time in the future 
 - Realizing that I have the ability to help people with my work
 - Improving my skills in adobe programs and github
+- Letting myself rest is important for my work
 
 ### Personal Life
 - Realizing that I can choose who I give my energy to
 - Learning that there is no such thing as too many therapy sessions
 - Seeing that time really heals
 - Accepting that politics is forbidden theme in my family
+- Taking care of my physical health by exercising regularly is just as imporant as taking care of my mental health 
