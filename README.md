@@ -1,15 +1,15 @@
 # English-for-designers
 
-- [One Word](https://github.com/natalia-buzkova/english-for-designers/tree/main/01-one-word/index.md)
+- [One Word](https://natalia-buzkova.github.io/english-for-designers/01-one-word/)
 
-- [First Impression](https://github.com/natalia-buzkova/english-for-designers/blob/main/02-first-impression/index.md)
+- [First Impression](https://natalia-buzkova.github.io/english-for-designers/02-first-impression/)
 
-- [Content first](https://github.com/natalia-buzkova/english-for-designers/blob/main/03-content-first/index.md)
+- [Content first](https://natalia-buzkova.github.io/english-for-designers/03-content-first/)
 
-- [Voice, tone, style](https://github.com/natalia-buzkova/english-for-designers/blob/main/04-voice-tone-style/index.md)
+- [Voice, tone, style](https://natalia-buzkova.github.io/english-for-designers/04-voice-tone-style/)
 
-- [Storytelling](https://github.com/natalia-buzkova/english-for-designers/blob/main/05-storytelling/index.md)
+- [Storytelling](https://natalia-buzkova.github.io/english-for-designers/main/05-storytelling/)
 
-- [Thesis](https://github.com/natalia-buzkova/english-for-designers/blob/main/06-thesis/index.md)
+- [Thesis]([https://github.com/natalia-buzkova/english-for-designers/blob/main](https://natalia-buzkova.github.io/english-for-designers/06-thesis/)
 
 - [Year in review](https://natalia-buzkova.github.io/english-for-designers/07-year-in-review/)
