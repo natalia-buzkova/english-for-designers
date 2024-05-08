@@ -4,7 +4,7 @@
 
 [About me](../about.md)
 
-## Some writings I've done
+## Some talks I've done
 
 - [Storytelling](https://natalia-buzkova.github.io/english-for-designers/05-storytelling/)
 
