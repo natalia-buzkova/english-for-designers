@@ -17,15 +17,15 @@ I loved times when I could be with people older than me, listen and analyse them
 
 *And I loved how they talked about me being so mature for my age.*
 
-![Photo of a kid laughing out loud beside a table](../img/laughing-kid-sitting-beside-a-tabble.jpg)
+![Kid laughing out loud beside a table](../img/laughing-kid-sitting-beside-a-tabble.jpg)
 
 I spent most of my time with my family, including my brother and my other six cousins.
 
-![Photo of four grandchildren sitting on a couch with their grandparents, celebrating](../img/grandchildren-sitting-around-a-table-with-their-grandparents.jpg)
+![Four grandchildren sitting on a couch with their grandparents, celebrating](../img/grandchildren-sitting-around-a-table-with-their-grandparents.jpg)
 
 Being younger, I always looked up for my brother and spending time with him made me feel *special*.
 
-![Photo of siblings, boy and a girl, sitting on grass](../img/blonde-girl-with-brown-haired-boy-sitting-on-grass.jpg)
+![Siblings, boy and a girl, sitting on grass](../img/blonde-girl-with-brown-haired-boy-sitting-on-grass.jpg)
 
 I take it as I was supposed to be the calm and organized one, as only girl in the family...
 
@@ -33,7 +33,7 @@ Later, it got to me.
 
 I became the most organized person you could ever imagine.
 
-![Photo of a blonde girl sitting in class behind a desk](../img/small-girl-sitting-in-school.jpg)
+![Blonde girl sitting in class behind a desk](../img/small-girl-sitting-in-school.jpg)
 
 School was never a problem for me, somehow, I managed to create a schedule in my head. That way, I always had everything done in at least one week advance.
 I strived to be *perfect*.
@@ -59,7 +59,7 @@ I believed that if I get to understand minds of other people, then I will unders
 My relationships changed too. Making my friends and family feel like they are never alone in this world became my top priority.
 I wanted to make them feel loved, worthy and accepted. I took their problems as if they were mine and found my value in their happiness. And my personal fauilure in their grief. 
 
-![Photo of of a friend group celebrating birthday during summer](../img/photo-of-friends-during-summer-holiday-celebrating-birthday.jpg)
+![Friend group celebrating birthday during summer](../img/photo-of-friends-during-summer-holiday-celebrating-birthday.jpg)
 
 If I could tell one thing about myself, it’s that I care and I care *deeply*. 
 
@@ -85,7 +85,7 @@ Every child is born with a need to create bonds with caregivers, and they have i
 
 Other people can influence your attachment style too, for the better or for worse, but the one that you develop during your childhood is always going to be your starting point, from which it is *hard* to move forward. 
 
-Firstly, psychologists divide these styles as secure and then three types of insecure attachments. Insecure styles include anxious, avoidant, and anxious-avoidant attachment. 
+Firstly, psychologists divide these styles as secure and then three types of insecure attachments. Insecure styles include anxious, avoidant, and anxious-avoidant attachment.
 
 ![Graph showing the spectrum of different attachment styles](../img/graph-showing-attachment-styles-and-their-spectrum.PNG)
 
