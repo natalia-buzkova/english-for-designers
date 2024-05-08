@@ -12,4 +12,4 @@
 
 - [Thesis](https://github.com/natalia-buzkova/english-for-designers/blob/main/06-thesis/index.md)
 
-- [Year in review](https://github.com/natalia-buzkova/english-for-designers/blob/main/07-year-in-review/index.md)
+- [Year in review](https://natalia-buzkova.github.io/english-for-designers/07-year-in-review/)
