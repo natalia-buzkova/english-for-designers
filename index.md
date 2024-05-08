@@ -7,3 +7,5 @@
 [Work](work/index.md)
 
 [Writing](writing/index.md)
+
+[Talks](talks/index.md)
