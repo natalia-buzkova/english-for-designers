@@ -12,7 +12,7 @@ The theoretical part focuses on definitions of basic concepts in graphic design 
 
 In the practical part, I present the proposed visual identity, its use within the festival, and its promotion in both online and offline spaces. I present the main visual principle, along with the target group. Included are a questionnaire and an attachment of a survey on personal visual representation of trauma by individuals in my surroundings.
 
-##### Key Words
+##### Keywords
 visual identity, graphic design, festival, mental health, trauma
 
 ## Article
@@ -57,11 +57,11 @@ I created two surveys, which I then visually processed. The main goal of both su
 
 The first survey consisted of just one question, asking what color an individual would depict or define trauma according to their subjective perception.
 
-![Picture of a table showing results of survey what color represents trauma.](../img/table-showing-results-of-survey-asking-what-color-represents-trauma.png)
+![Table showing results of survey what color represents trauma.](../img/table-showing-results-of-survey-asking-what-color-represents-trauma.png)
 
 The second survey focused on the representation of trauma. The participant was asked to abstractly draw the visual appearance of a traumatic experience with a single line.
 
-![Picture of survey results, visualization of trauma with one line.](../img/pictures-of-survey-results.png)
+![Survey results, visualization of trauma with one line.](../img/pictures-of-survey-results.png)
 
 #### Theoretical concept
 
@@ -76,11 +76,11 @@ I have decided to abstractly elaborate on this concept and build upon it the mai
 
 After processing the results obtained from the surveys, I selected one of the obtained abstracts and chose the color blue.
 
-![Picture of blue abstract of trauma.](../img/digitalized-abstract-visualization-of-trauma.png)
+![Blue abstract of trauma.](../img/digitalized-abstract-visualization-of-trauma.png)
 
 As I expressed before, we wrap our traumas in layers as a form of protection and an attempt to restore our broken wholeness. Around the abstract, I visually process lines that symbolize the created layers. The further they are from the object, the closer to approaching a perfect circle, but never will.  Just as with our struggle to achieve wholeness.
 
-![Picture of layers forming around trauma.](../img/visualization-of-layers-around-trauma.png)
+![Layers forming around trauma.](../img/visualization-of-layers-around-trauma.png)
 
 Visually, I represent the educational aspect of the festival, which consists of lectures and discussions, using two circles.
 These circles represent the festival’s focus on individual traumas.
@@ -89,14 +89,14 @@ The first one is black, as it symbolizes lectures that are medical and psycholog
 
 Discussions delve into the spiritual and personal experiences of traumas, they offer the opposite view of trauma, which is not clearly defined and outlined – just as the complementary yellow circle depicted.
 
-![Picture of black and yellow circle representing discussions and lectures on festival.](../img/visualization-of-circles-symbolizing-discussions-and-lectures.png)
+![Black and yellow circle representing discussions and lectures on festival.](../img/visualization-of-circles-symbolizing-discussions-and-lectures.png)
 
 Festival brings individuals closer to the wholeness that they are trying so hard to achieve, through lectures, discussions, and workshops.
 
 Within the line that reaches a perfect circle, I insert information related to the festival, such as the list of guest speakers, discussion and lecture titles, etc. 
 It is another symbolic depiction that I work with. 
 
-![Picture showing circular text frame around the central abstract with black and yellow circle.](../img/text-frame-around-central-abstract.png)
+![Circular text frame around the central abstract with black and yellow circle.](../img/text-frame-around-central-abstract.png)
 
 #### Logo
 
@@ -105,11 +105,11 @@ The logo consists of a symbol and typographically displayed name of the festival
 The symbol is composed of two circles, representing the main role and essence of the festival, which is analyzing and bringing trauma closer through interconnected approaches – medical and spiritual.
 Inside the symbol, there is a segment of lines from the main abstract.
 
-![Picture of black logo Poznanie.](../img/picture-of-black-logo-poznanie.png)
+![Black logo Poznanie.](../img/picture-of-black-logo-poznanie.png)
 
 Color of the logo may vary according to its background or color of the typography used on a specific product. 
 
-![Picture of color variations of logo Poznanie.](../img/color-variations-of-logo-poznanie.png)
+![Color variations of logo Poznanie.](../img/color-variations-of-logo-poznanie.png)
 
 #### Color Palette
 
@@ -118,7 +118,7 @@ I complement it with black and white, which serve as background or text colors.
 
 As a secondary color, I chose yellow, considering its complementary relationship with blue. It creates contrast and tension but also symbolizes hope for a future without trauma binding us. 
 
-![Picture of color palette of the visual identity together with color codes.](../img/color-pallet-of-the-visual-identity-with-color-codes.png)
+![Color palette of the visual identity together with color codes.](../img/color-pallet-of-the-visual-identity-with-color-codes.png)
 
 #### Typography
 
@@ -126,12 +126,12 @@ As the primary font of the visual identity, I have chosen the Sofia Pro font.
 It is a sans-serif font that is part of the logo and serves as the main text font. 
 It clearly expresses the idea of typeset text.
 
-![Picture of Sofia Pro font.](../img/font-sofia-pro.png)
+![Sofia Pro font.](../img/font-sofia-pro.png)
 
 I utilize the supplementary font TT Travels as the headline font, as it creates contrast and draws attention.
 With its irregular shapes, it connects with the abstract representation of trauma I used in the graphic process. 
 
-![Picture of TT Travels Next font.](../img/font-tt-travels-next.png)
+![TT Travels Next font.](../img/font-tt-travels-next.png)
 
 #### Online propagation
 
@@ -171,7 +171,7 @@ Furthermore, I present additional visual elements that I have developed. These i
 ![Mockup of an open A5-sized brochure present on the festival.](../img/mockup-of-open-brochure.png)
 
 ##### Merchandising
-![Fourmockups showing merch including notebook, mat,tote bag,t-shirt.](../img/four-pictures-showing-merch.png)
+![Four mockups showing merch including notebook, mat,tote bag,t-shirt.](../img/four-pictures-showing-merch.png)
 
 ##### Festival accessories 
 ![Three mockups showing different accessories present on the festival, such as id cards, cups and wristband.](../img/three-pictures-showing-accessories-on-the-festival.png)
