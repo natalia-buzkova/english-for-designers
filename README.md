@@ -10,6 +10,6 @@
 
 - [Storytelling](https://natalia-buzkova.github.io/english-for-designers/main/05-storytelling/)
 
-- [Thesis]([https://github.com/natalia-buzkova/english-for-designers/blob/main](https://natalia-buzkova.github.io/english-for-designers/06-thesis/)
+- [Thesis](https://natalia-buzkova.github.io/english-for-designers/06-thesis/)
 
 - [Year in review](https://natalia-buzkova.github.io/english-for-designers/07-year-in-review/)
