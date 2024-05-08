@@ -10,7 +10,7 @@
 
 - [First Impression](https://natalia-buzkova.github.io/english-for-designers/02-first-impression/)
 
-- - [Content first](https://natalia-buzkova.github.io/english-for-designers/03-content-first/)
+- [Content first](https://natalia-buzkova.github.io/english-for-designers/03-content-first/)
 
 - [Voice, tone, style](https://natalia-buzkova.github.io/english-for-designers/04-voice-tone-style/)
   
