@@ -155,8 +155,8 @@ Together with deep hard work on ourselves, one day we can meet as one big *secur
 
 If the topic caught your attention, here is a list of books I recommend:
 
-- Adult Children of Emotionally Immature Parents
-- Recovering from Emotionally Immature Parents
-- It Didn't Start With You
-- What Happened to You?
-- Set boundaries, find peace
+- [Adult Children of Emotionally Immature Parents](https://www.goodreads.com/book/show/23129659-adult-children-of-emotionally-immature-parents?from_search=true&from_srp=true&qid=GQapA05acU&rank=1)
+- [Recovering from Emotionally Immature Parents](https://www.goodreads.com/book/show/40890214-recovering-from-emotionally-immature-parents?from_search=true&from_srp=true&qid=VeTFfmtgkK&rank=1)
+- [It Didn't Start With You](https://www.goodreads.com/book/show/26026054-it-didn-t-start-with-you)
+- [What Happened to You?](https://www.goodreads.com/book/show/53238858-what-happened-to-you-conversations-on-trauma-resilience-and-healing?from_search=true&from_srp=true&qid=UYQlpfShp7&rank=1)
+- [Set boundaries, find peace](https://www.goodreads.com/book/show/55782639-set-boundaries-find-peace?from_search=true&from_srp=true&qid=5AygU8oLg0&rank=1)
