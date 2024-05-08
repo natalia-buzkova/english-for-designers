@@ -8,7 +8,7 @@
 
 - [Voice, tone, style](https://natalia-buzkova.github.io/english-for-designers/04-voice-tone-style/)
 
-- [Storytelling](https://natalia-buzkova.github.io/english-for-designers/main/05-storytelling/)
+- [Storytelling](https://natalia-buzkova.github.io/english-for-designers/05-storytelling/)
 
 - [Thesis](https://natalia-buzkova.github.io/english-for-designers/06-thesis/)
 
